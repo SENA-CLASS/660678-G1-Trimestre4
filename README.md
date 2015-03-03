@@ -6,7 +6,9 @@ Ejemplos de clase
 Temas
 
 Programación Orientada a Objetos
--Java
+-Java SE
+- se llego al tema de colexiones
+- se vieron los temas del curso fundamental y programing 1 hasta el capitulo 6
 
 
 
